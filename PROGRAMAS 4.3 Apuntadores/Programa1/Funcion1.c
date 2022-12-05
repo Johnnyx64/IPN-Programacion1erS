@@ -17,7 +17,7 @@ scanf("%d",&arr[x]);
 }
 
 
-
+// el famosisimo metodo burbuja (todos usan nadie entiende pero, ahi esta )
 for(x=0;x<numero;x++){
     for(i=0,d=1;d<numero;i++,d++){
         if(arr[i]>arr[d]){
